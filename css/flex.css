@@ -1,0 +1,19 @@
+#pai {
+  background: #e7eef5;
+  height: 500px;
+  border: 1px solid red;
+  display: flex; /*habilita o sitema flex*/
+  /*gap: 15px;*/ /*espaçamento entre os itnes*/
+  flex-wrap: wrap; /*quebra automático da linha*/
+  justify-content: start;
+  align-content: flex-start;
+}
+
+.item {
+  width: 100px;
+  background: lightcyan;
+  border: 1px solid black;
+  flex-basis: 200px;
+  ali
+}
+
